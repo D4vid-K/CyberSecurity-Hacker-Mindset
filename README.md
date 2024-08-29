@@ -1,7 +1,7 @@
  # CyberSecurity Hacker Mindset 🧠
 
 
-<img src="https://i0.wp.com/longreads.com/wp-content/uploads/2024/03/Hacking-RL-final.jpg" alt="Descrição da Imagem" width="540" height="260">
+<img src="haha.jpg" alt="Descrição da Imagem" width="640" height="260">
 
 
 Bem-vindo ao repositório do curso **Cybersecurity Hacker Mindset** 
@@ -61,4 +61,4 @@ Se você deseja contribuir com o repositório, fique à vontade para enviar pull
 ## Criador do Curso 
 FIAP - Formação e Inovação para o Futuro
 
-<img src="" alt="Descrição da Imagem" width="540" height="260">
+<img src="fiap.png" alt="Descrição da Imagem" width="400" height="200">
