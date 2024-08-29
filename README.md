@@ -1,7 +1,7 @@
  # CyberSecurity Hacker Mindset 🧠
 
 
-<img src="haha.jpg" alt="Descrição da Imagem" width="640" height="260">
+<img src="felipe.jpg" alt="Descrição da Imagem" width="640" height="260">
 
 
 Bem-vindo ao repositório do curso **Cybersecurity Hacker Mindset** 
