@@ -1,7 +1,7 @@
  # CyberSecurity Hacker Mindset 🧠
 
 
-<img src="felipe.jpg" alt="Descrição da Imagem" width="640" height="260">
+<img src="/IMAGENS/felipe.jpg" alt="Descrição da Imagem" width="640" height="260">
 
 
 Bem-vindo ao repositório do curso **Cybersecurity Hacker Mindset** 
@@ -61,4 +61,4 @@ Se você deseja contribuir com o repositório, fique à vontade para enviar pull
 ## Criador do Curso 
 FIAP - Formação e Inovação para o Futuro
 
-<img src="fiap.png" alt="Descrição da Imagem" width="400" height="200">
+<img src="/IMAGENS/fiap.png" alt="Descrição da Imagem" width="400" height="200">
